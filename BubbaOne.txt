@@ -1,0 +1,25 @@
+----------------------------------------------
+		Report One
+
+----------------------------------------------
+Name  | Sales
+--------------
+Mike 41520 
+George 81930 
+Launa 62555 
+Teresa 91740 
+Carmen 73020 
+Charles 71425 
+Richard 65465 
+Nicky 52640 
+Morgan 81483 
+Francis 94455 
+Bubba 7142 
+Bobby 65462 
+
+
+The salesperson with the lowest sales is: Bubba with $7142
+The salesperson with the highest sales is: Francis with $94455
+
+
+----------------------------------------------

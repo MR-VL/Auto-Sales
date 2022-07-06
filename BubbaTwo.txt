@@ -1,0 +1,24 @@
+----------------------------------------------
+		Report Two
+
+----------------------------------------------
+Name  | Sales
+--------------
+Bobby 65462 
+Bubba 7142 
+Carmen 73020 
+Charles 71425 
+Francis 94455 
+George 81930 
+Launa 62555 
+Mike 41520 
+Morgan 81483 
+Nicky 52640 
+Richard 65465 
+Teresa 91740 
+
+
+The total sales is: $788837
+The average sales is: $65736
+
+----------------------------------------------
